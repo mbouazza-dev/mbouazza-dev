@@ -6,4 +6,4 @@ I'm a data engineer who is passionate about being challenged, solve complex prob
 
 ## Find me around the web ![earth_americas](https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png)
 -   On my [Website](https://mbouazza-dev.github.io/) 
--   Sharing updates on [LinkedIn](https://www.linkedin.com/in/monicampowell/)
+-   Sharing updates on [LinkedIn](https://www.linkedin.com/in/mehdi-bouazza-21679913a/)
